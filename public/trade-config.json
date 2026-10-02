@@ -1,6 +1,6 @@
 {
-  "paymentMethod": "M-pesa",
-  "tradeId": "Order ID 1006184",
-  "amount": "0.74 USD",
+  "paymentMethod": "Bank transfer",
+  "tradeId": "Order ID 1006184jama",
+  "amount": "5000 USD",
   "status": "waiting"
 }
